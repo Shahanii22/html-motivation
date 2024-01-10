@@ -1,0 +1,17 @@
+html{background-color: black;}
+
+
+h1{font-family: 'Libre Baskerville', serif;
+color: white;
+background-color: black;
+text-align: center;
+text-transform: uppercase;
+}
+
+img{border: 5px solid white;
+margin-left: 85px;
+}
+
+p{color: goldenrod;
+    background-color: black;
+text-align: center;}
